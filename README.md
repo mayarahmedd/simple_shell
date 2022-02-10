@@ -1,5 +1,4 @@
-# simple_shell
-Assignment 1 - Simple shell implementation 1
+# Simple Shell
 💻
 Assignment 1 - Simple shell
 implementation
